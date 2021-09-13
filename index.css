@@ -311,14 +311,18 @@ nav.globalMenuSp {
     }
 
     .main-image2 {
-        margin: 150px auto;
-        display: flex;
-        background-size: cover;
-        background-position: center;
-        width: 90%;
+        display: none;
     }
+    
+    
 
-    .main-image{display: none;}
+    .main-image{ 
+        margin: 150px 0 0 0;
+        display: flex;
+        position: absolute;
+        top: 150px;
+        right: 0;
+    }
 
     .titlecase{  position: absolute;
     }
