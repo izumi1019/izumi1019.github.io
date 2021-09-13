@@ -315,7 +315,7 @@ nav.globalMenuSp {
         display: flex;
         background-size: cover;
         background-position: center;
-        width: 100%;
+        width: 90%;
     }
 
     .main-image{display: none;}
@@ -353,7 +353,6 @@ nav.globalMenuSp {
         margin-top: 20px;
     }
 
-   
 
 
     }
@@ -370,9 +369,9 @@ nav.globalMenuSp {
         .main-image2 {
             margin: 150px auto;
             display: flex;
-  
+
             background-position: center;
-            width: 100%;
+            width: 90%;
         }
     
         .main-image{display: none;}
@@ -413,7 +412,7 @@ nav.globalMenuSp {
         main{
             top: 400px;
             position: absolute;
-            padding: 200px 0 0 0;
+            padding: 400px 0 0 0;
         }
     
         h3,p{
