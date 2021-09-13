@@ -369,7 +369,7 @@ nav.globalMenuSp {
         .main-image2 {
             margin: 150px auto;
             display: flex;
-
+            height: 480px;
             background-position: center;
             width: 90%;
         }
