@@ -206,6 +206,7 @@ nav.globalMenuSp {
         height: 42px;
         cursor: pointer;
         text-align: center;
+        margin: 30px;
     }
     .hamburger span {
         display : block;
