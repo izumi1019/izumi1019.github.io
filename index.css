@@ -196,18 +196,7 @@ nav.globalMenuSp {
         display: none;
     }
 
-    .hamburger {
-        display : block;
-        position: fixed;
-        z-index : 3;
-        right : 13px;
-        top   : 12px;
-        width : 42px;
-        height: 42px;
-        cursor: pointer;
-        text-align: center;
-        margin: 30px;
-    }
+    
     .hamburger span {
         display : block;
         position: absolute;
@@ -303,6 +292,20 @@ nav.globalMenuSp {
 
 
 @media  screen and (min-width:500px) and (max-width:1279px) {
+    
+    .hamburger {
+        display : block;
+        position: fixed;
+        z-index : 3;
+        right : 13px;
+        top   : 12px;
+        width : 42px;
+        height: 42px;
+        cursor: pointer;
+        text-align: center;
+        margin: 30px;
+    }
+    
     /*tablet用のcssを記述*/
     .buttons{
         display: none;
@@ -366,6 +369,20 @@ nav.globalMenuSp {
     }
 
     @media  screen and (max-width:500px) {
+        
+        .hamburger {
+        display : block;
+        position: fixed;
+        z-index : 3;
+        right : 13px;
+        top   : 12px;
+        width : 42px;
+        height: 42px;
+        cursor: pointer;
+        text-align: center;
+        margin: 10px;
+    }
+        
         /*tablet用のcssを記述*/
         .buttons{
             display: none;
