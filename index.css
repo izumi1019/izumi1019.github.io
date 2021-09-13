@@ -353,9 +353,7 @@ nav.globalMenuSp {
         margin-top: 20px;
     }
 
-    main{
-        padding: 0px;
-    }
+   
 
 
     }
@@ -413,7 +411,6 @@ nav.globalMenuSp {
         }
     
         main{
-            padding: 0px;
             top: 400px;
             position: absolute;
         }
