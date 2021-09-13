@@ -370,7 +370,7 @@ nav.globalMenuSp {
         .main-image2 {
             margin: 150px auto;
             display: flex;
-            background-size: cover;
+  
             background-position: center;
             width: 100%;
         }
@@ -418,7 +418,7 @@ nav.globalMenuSp {
         h3,p{
             text-align: center;
             margin: 30px;
-            font-size: 120%; 
+            font-size: 100%; 
             }
 
         h2{
