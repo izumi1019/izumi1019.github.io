@@ -333,11 +333,15 @@ nav.globalMenuSp {
     }
 
     .images{
-        display: grid;
+        display: flex;
         justify-content: center;
     }
 
-    .img2{margin: 20px 0;}
+    .img2{margin: 0 12px;}
+    
+    .imgs{
+        width: 30%;
+    }
 
     .map-img{
         width: 100%;
