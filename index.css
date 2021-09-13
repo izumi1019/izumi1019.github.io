@@ -372,7 +372,7 @@ nav.globalMenuSp {
             display: flex;
   
             background-position: center;
-            width: 100%;
+            width: 90%;
         }
     
         .main-image{display: none;}
@@ -413,6 +413,7 @@ nav.globalMenuSp {
         main{
             top: 400px;
             position: absolute;
+            padding: 100px;
         }
     
         h3,p{
